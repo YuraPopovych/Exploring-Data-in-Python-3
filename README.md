@@ -41,4 +41,15 @@ Add code to the above program to figure out who has the
 most messages in the file.
 
 ## 9.4 
-This program count the domain name from file
+This program count the domain names from file
+
+## 10.1 
+Count emails and print email which most active 
+
+## 10.2 
+This program counts the distribution of the hour of the day
+for each of the messages.
+
+## 10.3
+Write a program that reads a file and prints the letters
+in decreasing order of frequency.
